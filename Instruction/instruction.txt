@@ -1,0 +1,8 @@
+Copy the the git ,
+then go apps directory,
+the follow those command
+npm i -g @angular/cli
+npm install 
+npm update
+ng serve or ( npm install -g npx npx ng serve )
+ng serve -o --poll=2000  //for specify fort
